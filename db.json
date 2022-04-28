@@ -1,0 +1,50 @@
+[
+  {
+    "numeroFolio": "145",
+    "cedulaCatastral": "HF244",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "45",
+    "areaTerreno": "32",
+    "direccionInmueble": "SS56"
+  },
+  {
+    "numeroFolio": "125",
+    "cedulaCatastral": "HR522",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "23",
+    "areaTerreno": "32",
+    "direccionInmueble": "DD56S"
+  },
+  {
+    "numeroFolio": "12123",
+    "cedulaCatastral": "DSGFD",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "56",
+    "areaTerreno": "21",
+    "direccionInmueble": "DSS"
+  },
+  {
+    "numeroFolio": "4334",
+    "cedulaCatastral": "SGSG",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "56",
+    "areaTerreno": "45",
+    "direccionInmueble": "SDFSDF"
+  },
+  {
+    "numeroFolio": "545",
+    "cedulaCatastral": "GSG",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "65",
+    "areaTerreno": "54",
+    "direccionInmueble": "DSFDS"
+  },
+  {
+    "numeroFolio": "656",
+    "cedulaCatastral": "SGSGD",
+    "tipoActivo": "PRUEBA",
+    "areaDelBien": "35",
+    "areaTerreno": "54",
+    "direccionInmueble": "FSDFDS"
+  }
+]
